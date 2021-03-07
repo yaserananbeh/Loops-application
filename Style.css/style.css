@@ -1,0 +1,34 @@
+html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #c43346;
+    width: 50% auto;
+}
+
+nav{
+/* position: relative; */
+margin: 0;
+padding: 0;
+height: 100%;
+background-color: rgb(13, 14, 13);
+color: white;
+}
+nav ul li {
+    display: inline;
+    margin: 0 30px;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-right: 50px;
+    border-right: rgb(253, 251, 251) 1px solid ;
+}
+ul li a{
+    text-decoration: none;
+    color: inherit;
+
+}
+.mainImg{
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+}
